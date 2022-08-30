@@ -1,0 +1,16 @@
+C:\Users\Teixeiras\source\repos\HousyTest\HousyTest\bin\Debug\netstandard2.0\HousyTest.deps.json
+C:\Users\Teixeiras\source\repos\HousyTest\HousyTest\bin\Debug\netstandard2.0\HousyTest.dll
+C:\Users\Teixeiras\source\repos\HousyTest\HousyTest\bin\Debug\netstandard2.0\HousyTest.pdb
+C:\Users\Teixeiras\source\repos\HousyTest\HousyTest\obj\Debug\netstandard2.0\HousyTest.csproj.AssemblyReference.cache
+C:\Users\Teixeiras\source\repos\HousyTest\HousyTest\obj\Debug\netstandard2.0\HousyTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Teixeiras\source\repos\HousyTest\HousyTest\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Teixeiras\source\repos\HousyTest\HousyTest\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Teixeiras\source\repos\HousyTest\HousyTest\obj\Debug\netstandard2.0\HousyTest.AssemblyInfoInputs.cache
+C:\Users\Teixeiras\source\repos\HousyTest\HousyTest\obj\Debug\netstandard2.0\HousyTest.AssemblyInfo.cs
+C:\Users\Teixeiras\source\repos\HousyTest\HousyTest\obj\Debug\netstandard2.0\HousyTest.csproj.CoreCompileInputs.cache
+C:\Users\Teixeiras\source\repos\HousyTest\HousyTest\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Teixeiras\source\repos\HousyTest\HousyTest\obj\Debug\netstandard2.0\HousyTest.dll
+C:\Users\Teixeiras\source\repos\HousyTest\HousyTest\obj\Debug\netstandard2.0\refint\HousyTest.dll
+C:\Users\Teixeiras\source\repos\HousyTest\HousyTest\obj\Debug\netstandard2.0\HousyTest.pdb
+C:\Users\Teixeiras\source\repos\HousyTest\HousyTest\obj\Debug\netstandard2.0\ref\HousyTest.dll
+C:\Users\Teixeiras\source\repos\HousyTest\HousyTest\obj\Debug\netstandard2.0\Cadastro do usuario.xaml.g.cs
