@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JpS9affyVfL+7CiWRMkGNo74ZiwCi2UQvIQpsNElpJs+4qpNfKaJ3YNFcQ/xw2fIKi3zvUCKeOpmnp15OBAYIQ==",
+  "dgSpecHash": "SZAaEVv30KHUKkYoxneCrN31N2SDRy41hISWTNtZabpUfMVPNSWbCTbQWlS3bqO5OgUCOCLfeoblcewTmOkyPw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Teixeiras\\source\\repos\\HousyTest\\HousyTest\\HousyTest.csproj",
+  "projectFilePath": "C:\\HousyTest\\HousyTest\\HousyTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Teixeiras\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Teixeiras\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",

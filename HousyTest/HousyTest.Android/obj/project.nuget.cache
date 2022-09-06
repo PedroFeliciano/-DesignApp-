@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "J99f80fyKx2FrkeG/lkZXF5NFb11Jm3gDWqzsZeYQOwgNX1na2Yam00XCHWHzThNrZ7mS4JcLtplFF1rpsRu5Q==",
+  "dgSpecHash": "JCkslhQvOkdTcfuw7CFAro26mgPvsoSe/VsjgF12Iyfm0L2cfg/bBHOFO9JHekpeNPnYioaFBbwodNuScbBoxQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Teixeiras\\source\\repos\\HousyTest\\HousyTest.Android\\HousyTest.Android.csproj",
+  "projectFilePath": "C:\\HousyTest\\HousyTest.Android\\HousyTest.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Teixeiras\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\Teixeiras\\.nuget\\packages\\xamarin.androidx.activity\\1.2.4.1\\xamarin.androidx.activity.1.2.4.1.nupkg.sha512",

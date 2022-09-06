@@ -530,11 +530,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Teixeiras\\source\\repos\\HousyTest\\HousyTest\\HousyTest.csproj",
+      "projectUniqueName": "C:\\HousyTest\\HousyTest\\HousyTest.csproj",
       "projectName": "HousyTest",
-      "projectPath": "C:\\Users\\Teixeiras\\source\\repos\\HousyTest\\HousyTest\\HousyTest.csproj",
+      "projectPath": "C:\\HousyTest\\HousyTest\\HousyTest.csproj",
       "packagesPath": "C:\\Users\\Teixeiras\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Teixeiras\\source\\repos\\HousyTest\\HousyTest\\obj\\",
+      "outputPath": "C:\\HousyTest\\HousyTest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Teixeiras\\AppData\\Roaming\\NuGet\\NuGet.Config",

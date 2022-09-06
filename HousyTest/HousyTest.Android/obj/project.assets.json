@@ -3177,11 +3177,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Teixeiras\\source\\repos\\HousyTest\\HousyTest.Android\\HousyTest.Android.csproj",
+      "projectUniqueName": "C:\\HousyTest\\HousyTest.Android\\HousyTest.Android.csproj",
       "projectName": "HousyTest.Android",
-      "projectPath": "C:\\Users\\Teixeiras\\source\\repos\\HousyTest\\HousyTest.Android\\HousyTest.Android.csproj",
+      "projectPath": "C:\\HousyTest\\HousyTest.Android\\HousyTest.Android.csproj",
       "packagesPath": "C:\\Users\\Teixeiras\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Teixeiras\\source\\repos\\HousyTest\\HousyTest.Android\\obj\\",
+      "outputPath": "C:\\HousyTest\\HousyTest.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -3198,8 +3198,8 @@
       "frameworks": {
         "monoandroid12.0": {
           "projectReferences": {
-            "C:\\Users\\Teixeiras\\source\\repos\\HousyTest\\HousyTest\\HousyTest.csproj": {
-              "projectPath": "C:\\Users\\Teixeiras\\source\\repos\\HousyTest\\HousyTest\\HousyTest.csproj"
+            "C:\\HousyTest\\HousyTest\\HousyTest.csproj": {
+              "projectPath": "C:\\HousyTest\\HousyTest\\HousyTest.csproj"
             }
           }
         }
